@@ -1,4 +1,4 @@
-# ASP.Net 5.0 MVC project with React.Net library integration
+# ASP.Net 5.0 MVC project with React.Net & Webpack integration
 
 Tutorial solution based on the link [here](https://reactjs.net/bundling/webpack.html)
 
