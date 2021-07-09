@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Generated dist static files in project
+/src/Example.React.App/wwwroot/dist/
+
+# Launch settings in project
+/src/Example.React.App/Properties/launchSettings.json
