@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+# Generated dist static files
+wwwroot/dist/
+
+# Launch settings
+Properties/launchSettings.json
