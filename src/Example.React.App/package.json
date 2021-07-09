@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "rimraf wwwroot/dist && webpack",
+    "clean": "rimraf wwwroot/dist/",
     "pack": "webpack"
   },
   "dependencies": {
